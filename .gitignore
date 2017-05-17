@@ -6,3 +6,5 @@ wks.*
 *.swp
 
 tmp-*
+
+npm-debug.log
