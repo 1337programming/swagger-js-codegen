@@ -13,7 +13,7 @@ npm install swagger-js-codegen-1337
 ## Example
 ```javascript
 var fs = require('fs');
-var CodeGen = require('swagger-js-codegen').CodeGen;
+var CodeGen = require('swagger-js-codegen-1337').CodeGen;
 
 var file = 'swagger/spec.json';
 var swagger = JSON.parse(fs.readFileSync(file, 'UTF-8'));

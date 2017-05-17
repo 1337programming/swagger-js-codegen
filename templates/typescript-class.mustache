@@ -1,5 +1,5 @@
 {{#definitions}}
-type {{&name}} = {{#tsType}}{{> type}}{{/tsType}};
+interface {{&name}} { {{#tsType}}{{> type}};{{/tsType}} };
 {{/definitions}}
 
 {{#methods}}
