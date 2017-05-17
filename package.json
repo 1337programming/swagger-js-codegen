@@ -1,8 +1,8 @@
 {
-  "name": "swagger-js-codegen",
+  "name": "swagger-js-codegen-1337",
   "main": "./lib/codegen.js",
-  "version": "1.9.0",
-  "description": "A Swagger codegen for JavaScript",
+  "version": "1.0.0",
+  "description": "A Swagger codegen for JavaScript -- Modified by Patrick Opie",
   "scripts": {
     "test": "grunt",
     "clean": "rm -rf tmp-*"
@@ -19,8 +19,8 @@
     "rest"
   ],
   "author": {
-    "name": "William Candillon",
-    "email": "w@28.io",
+    "name": "William Candillon -- modified by Patrick opie",
+    "email": "w@28.io / opiepj@plu.edu",
     "url": "http://28.io"
   },
   "license": "Apache-2.0",

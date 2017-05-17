@@ -7,7 +7,7 @@ The typescript generator is based on [superagent](https://github.com/visionmedia
 
 ## Installation
 ```bash
-npm install swagger-js-codegen
+npm install swagger-js-codegen-1337
 ```
 
 ## Example
